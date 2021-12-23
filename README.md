@@ -3,26 +3,13 @@
 </p>
 <p align="center">The most popular app store for Raspberry Pi computers. 100% open-source bash scripts (including the GUI).
 <p align="center">
-  <a href="https://github.com/Botspot/pi-apps/blob/master/CHANGELOG.md">
-    View changelog</a>
-  |
-  <a href="https://github.com/Botspot/pi-apps/wiki/Apps-List">
-    Apps List</a>
-  |
-  <a href="https://discord.gg/RXSTvaUvuu">
-    Join the <img src="https://img.shields.io/discord/770629697909424159.svg?color=7289da&label=Discord%20server&logo=discord" alt="Join the Discord server"></a>
-  |
-  <a href="https://github.com/Botspot/pi-apps/issues/new?template=bug-report.yml">
-    Report an error</a>
-  |
-  <a href="https://github.com/Botspot/pi-apps/issues/new?template=suggestion.yml">
-    Submit a suggestion</a>
-  |
-  <a href="https://github.com/Botspot/pi-apps/issues/new?template=app-request.yml">
-    Submit an app</a>
+  <a href="https://github.com/Botspot/pi-apps/">
+    The Original Developer</a>
+    
+<p align="center"><strong>Made with &#10084; by <a href="https://github.com/Botspot">Botspot</a></strong> and <a href="https://github.com/Botspot/pi-apps/graphs/contributors">The Botspot Pi-Apps Developers</a>
 
-<p align="center"><strong>Made with &#10084; by <a href="https://github.com/Botspot">Botspot</a></strong> and <a href="https://github.com/Botspot/pi-apps/graphs/contributors">others</a>
-
+## WARNING: THIS IS MY FORK OF PI-APPS THE ORIGINAL DEVELOPER IS <a href="https://github.com/Botspot">Botspot</a>
+    
 ## Introduction
 Let's be honest: **Linux is harder to master than Windows.** Sometimes it's not user-friendly, and following an outdated tutorial may break your Raspberry Pi's operating system.  
 There is no centralized software repository, except for the `apt` repositories which lack many desktop applications.  
@@ -37,7 +24,7 @@ To learn more:
 
 ## To install Pi-Apps
 ```
-wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+wget -qO- https://raw.githubusercontent.com/TurquoiseTNT/pi-apps/master/install | bash
 ```
 <img src="icons/screenshots/main%20window.png?raw=true" align="right" height="270px"/>
 Supported systems:
